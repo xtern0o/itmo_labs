@@ -26,7 +26,7 @@
 ### Программирование
 1. [Лабораторная работа 5](https://github.com/xtern0o/prog_lab5)
 2. [Лабораторная работа 6](https://github.com/xtern0o/prog_lab6)
-3. Лабораторная работа 7
+3. [Лабораторная работа 7](https://github.com/xtern0o/prog_lab7)
 4. Лабораторная работа 8
 
 ### ОПД
