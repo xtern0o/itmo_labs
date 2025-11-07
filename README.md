@@ -48,5 +48,5 @@
 1. [Лабораторная работа 1](https://github.com/xtern0o/web_lab1)
 2. [Лабораторная работа 2](https://github.com/xtern0o/web_lab2)
 3. [Лабораторная работа 3](https://github.com/xtern0o/web_lab3)
-4. Лабораторная работа 4
+4. [Лабораторная работа 4](https://github.com/xtern0o/web_lab4)
    
