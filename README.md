@@ -54,7 +54,9 @@
 
 ### Вычислительная математика
 1. [Лабораторная работа 1](https://github.com/xtern0o/vm_labs/tree/main/vm_lab1)
-2. [Лабораторная работа 2](https://github.com/xtern0o/vm_labs/tree/main/vm_lab2)
-3. [Лабораторная работа 3](https://github.com/xtern0o/vm_labs/tree/main/vm_lab3)
+1. [Лабораторная работа 2](https://github.com/xtern0o/vm_labs/tree/main/vm_lab2)
+1. [Лабораторная работа 3](https://github.com/xtern0o/vm_labs/tree/main/vm_lab3)
+1. [Лабораторная работа 4](https://github.com/xtern0o/vm_labs/tree/main/vm_lab4)
+
 
 
