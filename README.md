@@ -57,6 +57,11 @@
 1. [Лабораторная работа 2](https://github.com/xtern0o/vm_labs/tree/main/vm_lab2)
 1. [Лабораторная работа 3](https://github.com/xtern0o/vm_labs/tree/main/vm_lab3)
 1. [Лабораторная работа 4](https://github.com/xtern0o/vm_labs/tree/main/vm_lab4)
+1. [Лабораторная работа 5](https://github.com/xtern0o/vm_labs/tree/main/vm_lab5)
+1. [Лабораторная работа 6](https://github.com/xtern0o/vm_labs/tree/main/vm_lab6)
 
+### Архитектура компьютера
+1. [Лабораторная работа 3](https://github.com/xtern0o/csa_lab3) -  `acc32`, `f32a`, `m68k`, `risc-iv`, `scheme: risc-iv`
+2. [💀🥀 Лабораторная работа 4](https://github.com/xtern0o/csa_lab4) - `forth | cisc | harv | mc | tick | binary | stream | port | pstr | prob1 |` ~~`cache`~~ (30)
 
 
