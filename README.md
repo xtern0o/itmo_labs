@@ -30,11 +30,11 @@
 4. [Лабораторная работа 8](https://github.com/xtern0o/prog_lab8)
 
 ### ОПД
-1. Лабораторная работа 3
-2. Лабораторная работа 4
-3. Лабораторная работа 5
-4. Лабораторная работа 6
-5. Лабораторная работа 7
+1. [Лабораторная работа 3](https://github.com/xtern0o/itmo_labs/blob/main/docs/%D0%9E%D0%9F%D0%94%20%D0%BB%D0%B0%D0%B13.pdf)
+2. [Лабораторная работа 4](https://github.com/xtern0o/itmo_labs/blob/main/docs/%D0%9E%D0%9F%D0%94%20%D0%BB%D0%B0%D0%B14.pdf)
+3. [Лабораторная работа 5](https://github.com/xtern0o/itmo_labs/blob/main/docs/%D0%9E%D0%9F%D0%94%20%D0%BB%D0%B0%D0%B15.pdf)
+4. [Лабораторная работа 6](https://github.com/xtern0o/itmo_labs/blob/main/docs/%D0%9E%D0%9F%D0%94%20%D0%BB%D0%B0%D0%B16.pdf)
+5. [Лабораторная работа 7](https://github.com/xtern0o/itmo_labs/blob/main/docs/%D0%9E%D0%9F%D0%94%20%D0%BB%D0%B0%D0%B17.pdf)
 
 ### Базы данных
 1. [Лабораторная работа 1](https://github.com/xtern0o/db_labs/tree/main/db_lab1)
@@ -61,8 +61,8 @@
 1. [Лабораторная работа 6](https://github.com/xtern0o/vm_labs/tree/main/vm_lab6)
 
 ### Основы программной инженерии
-1. [Лабораторная работа 1]() - `SRS, RUP`
-2. [Лабораторная работа 2]() - `git, svn`
+1. [Лабораторная работа 1](https://github.com/xtern0o/itmo_labs/blob/main/docs/opi_lab1.pdf) - `SRS, RUP`
+2. [Лабораторная работа 2](https://github.com/xtern0o/itmo_labs/blob/main/docs/opi_lab2.pdf) - `git, svn`
 3. [Лабораторная работа 3](https://github.com/xtern0o/opi_lab3/tree/871d41b55dacea1e44f6df3711d793aa6e0963ba) - `gradle, junit`
 4. [Лабораторная работа 4](https://github.com/xtern0o/opi_lab4) - `monitoring, javax.management.*, jconsole, visualvm`
 
