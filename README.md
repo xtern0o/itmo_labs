@@ -60,6 +60,12 @@
 1. [Лабораторная работа 5](https://github.com/xtern0o/vm_labs/tree/main/vm_lab5)
 1. [Лабораторная работа 6](https://github.com/xtern0o/vm_labs/tree/main/vm_lab6)
 
+### Основы программной инженерии
+1. [Лабораторная работа 1]() - `SRS, RUP`
+2. [Лабораторная работа 2]() - `git, svn`
+3. [Лабораторная работа 3](https://github.com/xtern0o/opi_lab3/tree/871d41b55dacea1e44f6df3711d793aa6e0963ba) - `gradle, junit`
+4. [Лабораторная работа 4](https://github.com/xtern0o/opi_lab4) - `monitoring, javax.management.*, jconsole, visualvm`
+
 ### Архитектура компьютера
 1. [Лабораторная работа 3](https://github.com/xtern0o/csa_lab3) -  `acc32`, `f32a`, `m68k`, `risc-iv`, `scheme: risc-iv`
 2. [💀🥀 Лабораторная работа 4](https://github.com/xtern0o/csa_lab4) - `forth | cisc | harv | mc | tick | binary | stream | port | pstr | prob1 |` ~~`cache`~~ (30)
