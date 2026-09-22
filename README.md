@@ -70,4 +70,16 @@
 1. [Лабораторная работа 3](https://github.com/xtern0o/csa_lab3) -  `acc32`, `f32a`, `m68k`, `risc-iv`, `scheme: risc-iv`
 2. [💀🥀 Лабораторная работа 4](https://github.com/xtern0o/csa_lab4) - `forth | cisc | harv | mc | tick | binary | stream | port | pstr | prob1 |` ~~`cache`~~ (30)
 
+## 5 семестр
 
+### Информационные системы
+
+*to be done...*
+
+### Операционные системы
+
+*to be done...*
+
+### Архитектура программных систем
+
+*to be done...*
