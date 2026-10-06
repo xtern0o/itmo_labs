@@ -74,11 +74,19 @@
 
 ### Информационные системы
 
-*to be done...*
+1. [Лабораторная работа 1](https://github.com/xtern0o/is-lab1)
+
+*in progress...*
+
+### NoSQL
+
+1. [Лабораторная работа 1](https://github.com/xtern0o/nosql_lab1)
 
 ### Операционные системы
 
-*to be done...*
+1. Intro-Exp (XS)
+
+*in progress...*
 
 ### Архитектура программных систем
 
