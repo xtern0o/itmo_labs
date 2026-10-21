@@ -2,7 +2,7 @@
 > 2024-2028 \
 > Тут лежат ссылки на репозитории с моими лабами; если ссылки нет, значит мне лень загружать ее)
 
-## 1 семестр 
+## 1 семестр (2024)
 
 ### Программирование
 1. [Лабораторная работа 1](https://github.com/xtern0o/prog_lab1)
@@ -21,7 +21,7 @@
 5. Лабораторная работа 5 `(table processors; excel)`
 6. [Лабораторная работа 6](https://github.com/xtern0o/inf_labs/tree/main/lab6) `(LaTeX)`
 
-## 2 семестр
+## 2 семестр (2025)
 
 ### Программирование
 1. [Лабораторная работа 5](https://github.com/xtern0o/prog_lab5)
@@ -42,7 +42,7 @@
 3. [Лабораторная работа 3](https://github.com/xtern0o/db_labs/tree/main/db_lab3)
 4. [Лабораторная работа 4](https://github.com/xtern0o/db_labs/tree/main/db_lab4)
 
-## 3 семестр
+## 3 семестр (2025)
 
 ### Веб-программирование
 1. [Лабораторная работа 1](https://github.com/xtern0o/web_lab1)
@@ -50,7 +50,7 @@
 3. [Лабораторная работа 3](https://github.com/xtern0o/web_lab3)
 4. [Лабораторная работа 4](https://github.com/xtern0o/web_lab4)
 
-## 4 семестр
+## 4 семестр (2026)
 
 ### Вычислительная математика
 1. [Лабораторная работа 1](https://github.com/xtern0o/vm_labs/tree/main/vm_lab1)
@@ -70,7 +70,7 @@
 1. [Лабораторная работа 3](https://github.com/xtern0o/csa_lab3) -  `acc32`, `f32a`, `m68k`, `risc-iv`, `scheme: risc-iv`
 2. [💀🥀 Лабораторная работа 4](https://github.com/xtern0o/csa_lab4) - `forth | cisc | harv | mc | tick | binary | stream | port | pstr | prob1 |` ~~`cache`~~ (30)
 
-## 5 семестр | *in progress*
+## 5 семестр (2026) | *in progress*
 
 ### Информационные системы
 
