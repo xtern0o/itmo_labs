@@ -70,16 +70,14 @@
 1. [Лабораторная работа 3](https://github.com/xtern0o/csa_lab3) -  `acc32`, `f32a`, `m68k`, `risc-iv`, `scheme: risc-iv`
 2. [💀🥀 Лабораторная работа 4](https://github.com/xtern0o/csa_lab4) - `forth | cisc | harv | mc | tick | binary | stream | port | pstr | prob1 |` ~~`cache`~~ (30)
 
-## 5 семестр
+## 5 семестр | *in progress*
 
 ### Информационные системы
 
-**Курсовая**: `ERP`
+**Курсовая**: `trace ERP`
 
 1. [Лабораторная работа 1](https://github.com/xtern0o/is-lab1)
-2. Лабораторная работа 2
-
-*in progress...*
+2. [Лабораторная работа 2](https://github.com/xtern0o/is-lab2)
 
 ### NoSQL
 
@@ -88,9 +86,14 @@
 ### Операционные системы
 
 1. Intro-Exp (XS)
-
-*in progress...*
+2. vtsh (M)
 
 ### Архитектура программных систем
 
-*to be done...*
+### Модерирование
+
+1. [УИР 1](https://github.com/xtern0o/modeling_labs/tree/main/lab1)
+
+### Системы искуственного интеллекта
+
+1. [Лабораторная работа 1](https://github.com/xtern0o/sii_labs/tree/main/lab1)
