@@ -74,7 +74,11 @@
 
 ### Информационные системы
 
-**Курсовая**: `trace ERP`
+#### Курсовая
+
+[trace ERP](https://github.com/xtern0o/is-course)
+
+#### Лабы
 
 1. [Лабораторная работа 1](https://github.com/xtern0o/is-lab1)
 2. [Лабораторная работа 2](https://github.com/xtern0o/is-lab2)
