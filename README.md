@@ -85,12 +85,13 @@
 
 ### NoSQL
 
-1. [Лабораторная работа 1](https://github.com/xtern0o/nosql_lab1)
+1. [Лабораторная работа 1](https://github.com/xtern0o/nosql_lab1/tree/9bd67a0b377cc61809731bb679a20d32ce5efd45)
+2. [Лабораторная работа 2](https://github.com/xtern0o/nosql_lab1)
 
 ### Операционные системы
 
 1. Intro-Exp (XS)
-2. vtsh (M)
+2. vtsh (M $\rightarrow$ L) - доп
 
 ### Архитектура программных систем
 
@@ -101,3 +102,5 @@
 ### Системы искуственного интеллекта
 
 1. [Лабораторная работа 1](https://github.com/xtern0o/sii_labs/tree/main/lab1)
+2. [Лабораторная работа 2](https://github.com/xtern0o/sii_labs/tree/main/lab2)
+
