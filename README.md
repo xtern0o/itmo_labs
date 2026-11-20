@@ -81,7 +81,8 @@
 #### Лабы
 
 1. [Лабораторная работа 1](https://github.com/xtern0o/is-lab1)
-2. [Лабораторная работа 2](https://github.com/xtern0o/is-lab2)
+2. [Лабораторная работа 2](https://github.com/xtern0o/is-labs/pull/1)
+3. [Лабораторная работа 3](https://github.com/xtern0o/is-labs/pull/3)
 
 ### NoSQL
 
@@ -92,12 +93,15 @@
 
 1. Intro-Exp (XS)
 2. vtsh (M $\rightarrow$ L) - доп
+3. CoroHTTP (M)
 
 ### Архитектура программных систем
 
 ### Модерирование
 
 1. [УИР 1](https://github.com/xtern0o/modeling_labs/tree/main/lab1)
+2. УИР 2
+3. УИР 3
 
 ### Системы искуственного интеллекта
 
