@@ -105,7 +105,7 @@
 
 ### Системы искуственного интеллекта
 
-1. [Лабораторная работа 1](https://github.com/xtern0o/sii_labs/tree/main/lab1)
-2. [Лабораторная работа 2](https://github.com/xtern0o/sii_labs/tree/main/lab2)
-3. [Лабораторная работа 3](https://github.com/xtern0o/sii_labs/tree/main/lab3)
+1. [Лабораторная работа 1](https://github.com/xtern0o/sii_labs/tree/main/lab1) - `Linear & Logistic Regression`
+2. [Лабораторная работа 2](https://github.com/xtern0o/sii_labs/tree/main/lab2) - `Regularization + KNN`
+3. [Лабораторная работа 3](https://github.com/xtern0o/sii_labs/tree/main/lab3) - `Linear SVM`
 
